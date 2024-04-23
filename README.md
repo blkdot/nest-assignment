@@ -1,7 +1,7 @@
 
 ## Nest.js Test Task
 
-[Nest Test Task Source code](https://github.com/nestjs/nest)
+[Nest Test Task Source code](https://github.com/blkdot/nest-assignment)
 
 ## Objective:
 Develop a RESTful API for a cat adoption agency. The API will manage cat profiles, and user interactions.
@@ -76,6 +76,16 @@ $ npm run test:e2e
 # test coverage
 $ npm run test:cov
 ```
+## Screenshots
+
+<img src="./screenshots/add-favorite.png" alt="" />
+<img src="./screenshots/already-fevorite.png" alt="" />
+<img src="./screenshots/cat-get-all.png" alt="" />
+<img src="./screenshots/cat-save.png" alt="" />
+<img src="./screenshots/login-unauthorized.png" alt="" />
+<img src="./screenshots/postman-login-result.png" alt="" />
+<img src="./screenshots/redis-result.png" alt="" />
+<img src="./screenshots/unit-test.png" alt="" />
 
 ## Support
 
